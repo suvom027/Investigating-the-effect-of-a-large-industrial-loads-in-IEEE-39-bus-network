@@ -60,8 +60,9 @@ We added an industrial plant (modeled as an induction motor) at Bus 23. After ad
 - Compared to the base case, the modified system had noticeable changes in voltage profiles and line loadings.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/59d272b5-5c53-43a1-87e8-cd5cf16f0c11" width="400">
+<img src="https://github.com/user-attachments/assets/59d272b5-5c53-43a1-87e8-cd5cf16f0c11" width="620">
 </p>
+
 ---
 
 ## Conclusion
